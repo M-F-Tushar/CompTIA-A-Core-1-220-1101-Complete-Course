@@ -24,4 +24,4 @@ This repository contains my personal study notes and resources for the **CompTIA
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/comptia-a-plus-220-1101-notes.git
+   git clone https://github.com/M-F-Tushar/comptia-a-plus-220-1101-notes.git
